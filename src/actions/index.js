@@ -15,6 +15,7 @@ export const SET_SHOW_FAVOURITES = ' SET_SHOW_FAVOURITES';
 //export const SEARCH = ' SEARCH';
 
 // action creations
+console.log("hello there!");
 export function addMovies(movies){
     return{
         type:ADD_MOVIES,
